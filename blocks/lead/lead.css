@@ -1,0 +1,28 @@
+.lead {
+  min-height: 1005px;
+  margin: 0 148px 92px 148px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media screen and (max-width: 1150px) {
+  .lead {
+  min-height: 962px;
+  margin: 0 48px 92px 48px;
+}
+}
+
+@media screen and (max-width: 950px) {
+  .lead {
+  min-height: 862px;
+  margin: 0 0 88px 0;
+}
+}
+
+@media screen and (max-width: 550px) {
+  .lead {
+  min-height: 406px;
+  margin: 0 2px 64px 2px;
+}
+}
