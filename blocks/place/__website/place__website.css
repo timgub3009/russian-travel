@@ -14,8 +14,7 @@
 @media screen and (max-width: 550px) {
   .place__website {
   max-width: 288px;
-  margin: 0;
-  align-self: unset;
+  margin: 0 16px 0 16px;
 }
 }
 

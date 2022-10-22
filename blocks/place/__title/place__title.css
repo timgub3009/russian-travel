@@ -17,7 +17,7 @@
   .place__title {
     max-width: 288px;
     font-size: 32px;
-    margin: 0 auto 32px auto;
+    margin: 0 auto 0 auto;
   }
 }
 
