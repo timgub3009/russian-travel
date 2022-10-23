@@ -8,22 +8,22 @@
 
 @media screen and (max-width: 1150px) {
   .footer {
-  max-width: 928px;
-}
+    max-width: 928px;
+  }
 }
 
 @media screen and (max-width: 950px) {
   .footer {
-  max-width: 720px;
-  margin: 0 24px 24px 24px;
-}
+    max-width: 720px;
+    margin: 0 24px 24px 24px;
+  }
 }
 
 @media screen and (max-width: 550px) {
   .footer {
-  max-width: 186px;
-  flex-direction: column;
-  margin: 0 118px 24px 16px;
-  align-items: flex-start;
-}
+    max-width: 186px;
+    flex-direction: column;
+    margin: 0 118px 24px 16px;
+    align-items: flex-start;
+  }
 }

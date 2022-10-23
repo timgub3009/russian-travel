@@ -7,15 +7,13 @@
 
 @media screen and (max-width: 950px) {
   .place__website {
-  max-width: 352px;
-}
+    max-width: 352px;
+  }
 }
 
 @media screen and (max-width: 550px) {
   .place__website {
-  max-width: 288px;
-  margin: 0 16px 0 16px;
+    max-width: 288px;
+    margin: 0 16px 0 16px;
+  }
 }
-}
-
-

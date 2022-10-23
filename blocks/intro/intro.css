@@ -5,9 +5,9 @@
 }
 
 @media screen and (max-width: 1150px) {
-.intro {
-  margin: 0 286px 92px 48px;
-}
+  .intro {
+    margin: 0 286px 92px 48px;
+  }
 }
 
 @media screen and (max-width: 950px) {
@@ -15,7 +15,7 @@
     max-width: 720px;
     margin: 0 24px 88px 24px;
   }
-  }
+}
 
 @media screen and (max-width: 550px) {
   .intro {
@@ -23,4 +23,4 @@
     min-height: 754px;
     margin: 0 16px 64px 16px;
   }
-  }
+}

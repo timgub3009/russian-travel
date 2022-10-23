@@ -8,22 +8,15 @@
 }
 
 @media screen and (max-width: 1150px) {
-.lead__subtitle {
-  margin: 0 0 56px 0;
-  }
-}
-
-@media screen and (max-width: 950px) {
-.lead__subtitle {
-  margin: 0 0 56px 0;
+  .lead__subtitle {
+    margin: 0 0 56px 0;
   }
 }
 
 @media screen and (max-width: 550px) {
-.lead__subtitle {
-  margin: 0 0 40px 0;
-  font-size: 16px;
-  max-width: 288px;
+  .lead__subtitle {
+    margin: 0 0 40px 0;
+    font-size: 16px;
+    max-width: 288px;
   }
 }
-
