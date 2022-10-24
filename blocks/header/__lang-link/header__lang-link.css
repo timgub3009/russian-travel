@@ -8,10 +8,6 @@
   transition: 0.5s;
 }
 
-.header__lang-link:nth-child(1) {
-  text-decoration: underline;
-}
-
 .header__lang-link:hover {
   opacity: 0.8;
 }

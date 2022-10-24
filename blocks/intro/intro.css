@@ -1,12 +1,11 @@
 .intro {
-  min-height: 429px;
   max-width: 690px;
-  margin: 0 442px 92px 148px;
+  margin: 0 auto 92px 148px;
 }
 
 @media screen and (max-width: 1150px) {
   .intro {
-    margin: 0 286px 92px 48px;
+    margin: 0 auto 92px 48px;
   }
 }
 
@@ -20,7 +19,6 @@
 @media screen and (max-width: 550px) {
   .intro {
     max-width: 288px;
-    min-height: 754px;
     margin: 0 16px 64px 16px;
   }
 }

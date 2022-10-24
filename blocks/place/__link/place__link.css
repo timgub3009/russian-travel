@@ -7,9 +7,5 @@
 }
 
 .place__link:hover {
-  font-size: 18px;
-  line-height: 1.2;
-  color: #fff;
-  display: block;
   opacity: 0.8;
 }
