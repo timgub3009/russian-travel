@@ -15,6 +15,16 @@ li:last-of-type .footer__link{
   margin-right: 0;
 }
 
+@media screen and (max-width: 750px) {
+  .footer__link {
+    margin-right: 9px;
+  }
+
+  li:last-of-type .footer__link{
+    margin-right: 4.5px;
+  }
+}
+
 @media screen and (max-width: 550px) {
   .footer__link {
     margin: 0;

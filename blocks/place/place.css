@@ -34,6 +34,12 @@
   }
 }
 
+@media screen and (max-width: 750px) {
+  .place {
+    grid-template-columns: 240px auto;
+  }
+}
+
 @media screen and (max-width: 550px) {
   .place {
     margin: 0 0 50px 0;
@@ -46,5 +52,9 @@
       "paragraphs";
     row-gap: 32px;
     column-gap: 0;
+  }
+
+  .place:last-of-type {
+    margin: 0 0 66px 0;
   }
 }
