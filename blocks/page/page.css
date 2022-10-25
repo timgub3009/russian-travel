@@ -4,7 +4,7 @@
   min-width: 320px;
   max-width: 1280px;
   min-height: 100vh;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;

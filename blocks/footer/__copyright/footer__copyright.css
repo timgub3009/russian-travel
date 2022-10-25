@@ -3,3 +3,9 @@
   font-size: 14px;
   line-height: 1.1;
 }
+
+@media screen and (max-width: 750px) {
+  .footer__copyright {
+    text-align: center;
+  }
+}

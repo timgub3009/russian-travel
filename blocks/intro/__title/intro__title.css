@@ -6,6 +6,12 @@
   font-weight: 900;
 }
 
+@media screen and (max-width: 670px) {
+  .intro__title {
+    font-size: 40px;
+  }
+}
+
 @media screen and (max-width: 550px) {
   .intro__title {
     font-size: 32px;
